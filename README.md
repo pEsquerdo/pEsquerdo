@@ -13,7 +13,6 @@
  
 <br>
 
-  
  <div style="display: inline_block"><br>
   <img  alt="Ruby on Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img  alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
